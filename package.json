@@ -1,5 +1,11 @@
 {
 	"author": "Jeffrey",
+	"description": "Learning project for freecodecamp backend",
+	"keywords": [
+		"freecodecamp",
+		"ecks dee"
+	],
+	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
